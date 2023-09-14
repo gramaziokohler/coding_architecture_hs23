@@ -11,6 +11,8 @@ Before you begin the installation of the tools required for this course, make su
 
 Once that is done, follow the step-by-step instructions of the video below to install the rest of the tools.
 
+## Installation guide
+
 **Windows Users**
 
 The link to the installer used in the video is: https://dfab.link/ca-hs23/installer.zip 
@@ -21,8 +23,6 @@ On Mac, it's not necessary to download the installer. Instead, open the **Termin
 ```bash
   curl -s https://dfab.link/ca-hs23/mac_install.bash | bash
 ```
-
-## Installation guide
 
 Click [here](https://youtu.be/sC6GrslzSv4) to watch the installation guide video:
 
