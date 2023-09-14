@@ -6,8 +6,9 @@ During the semester, we will learn to code in Python using Rhino/Grasshopper and
 
 Before you begin the installation of the tools required for this course, make sure you have the following pre-requisites installed on your system:
 
-Rhino 6/7: https://www.rhino3d.com/download
-VS Code (free): https://code.visualstudio.com/
+* Rhino 6/7: https://www.rhino3d.com/download
+* VS Code (free): https://code.visualstudio.com/
+
 Once that is done, follow the step-by-step instructions of the video to install the rest of the tools.
 
 **Windows Users**
