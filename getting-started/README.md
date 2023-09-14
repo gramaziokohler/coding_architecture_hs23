@@ -24,6 +24,8 @@ On Mac, it's not necessary to download the installer. Instead, open the **Termin
   curl -s https://dfab.link/ca-hs23/mac_install.bash | bash
 ```
 
+**Step-by-step video**
+
 Click [here](https://youtu.be/sC6GrslzSv4) to watch the installation guide video:
 
 [![Watch the installation guide](https://img.youtube.com/vi/sC6GrslzSv4/maxresdefault.jpg)](https://youtu.be/sC6GrslzSv4)
