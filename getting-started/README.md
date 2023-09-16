@@ -1,7 +1,5 @@
 # Getting Started
 
-During the semester, we will learn to code in Python using Rhino/Grasshopper and we will use some 
-
 ## Software requirements
 
 Before you begin the installation of the tools required for this course, make sure you have the following pre-requisites installed on your system:

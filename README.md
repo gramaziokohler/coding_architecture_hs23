@@ -1,3 +1,5 @@
+![Poster](.static/230719_357_Moodle_WM.jpg)
+
 # Coding Architecture I: HS23
 
 Materials for the "Coding Architecture I", Autumn Semester 2023.
@@ -8,6 +10,7 @@ Materials for the "Coding Architecture I", Autumn Semester 2023.
 > -both software and hardware-<br>
 > **and exploring the programmability of our world**<br>
 > through powerful methods of digital, computational, and algorithmic design.
+
 
 ## Getting started
 
