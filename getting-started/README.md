@@ -6,6 +6,7 @@ Before you begin the installation of the tools required for this course, make su
 
 * Rhino 6/7: https://www.rhino3d.com/download
 * VS Code (free): https://code.visualstudio.com/
+* GIT (free): https://git-scm.com/
 
 Once that is done, follow the step-by-step instructions of the video below to install the rest of the tools.
 
