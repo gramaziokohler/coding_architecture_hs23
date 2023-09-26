@@ -3,7 +3,7 @@
 [![roadmap](../.static/roadmap-small.png)](https://github.com/gramaziokohler/coding_architecture_hs23/raw/main/roadmap/roadmap.png)
 
 - [Download the full resolution roadmap](https://github.com/gramaziokohler/coding_architecture_hs23/raw/main/roadmap/roadmap.png)
-- [Download Grasshopper file: comparing building blocks](compare_building_blocks.gh)
+- [Download Grasshopper file: comparing building blocks](comparing-building-blocks.gh)
 
 This roadmap provides guidence during the learning process,
 to understand how much you've progressed and what are the skills and concepts
