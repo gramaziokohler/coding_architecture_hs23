@@ -1,6 +1,9 @@
 # Roadmap: becoming a computational designer
 
-[![roadmap](../.static/roadmap-small.png)](roadmap.png)
+[![roadmap](../.static/roadmap-small.png)](https://github.com/gramaziokohler/coding_architecture_hs23/raw/main/roadmap/roadmap.png)
+
+- [Download the full resolution roadmap](https://github.com/gramaziokohler/coding_architecture_hs23/raw/main/roadmap/roadmap.png)
+- [Download Grasshopper file: comparing building blocks](compare_building_blocks.gh)
 
 This roadmap provides guidence during the learning process,
 to understand how much you've progressed and what are the skills and concepts
@@ -29,3 +32,4 @@ Finally, once we have that, we can package our program into even larger units:
 - *Modules* can be composed into a larger unit called *Package*. A *Package* is just a folder to organize related modules.
 - *Packages* can be composed into a larger unit called *Library*  (or just app)
 - *Libraries* are larger re-usable pieces of code. We can include (`import`) as many libraries as we want in our code.
+
