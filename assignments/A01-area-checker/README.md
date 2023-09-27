@@ -94,3 +94,21 @@ the visualization on and off.
 
 ![challenge 02](images/challenge-02.png)
 ![screenshot](images/screenshot-02.png)
+
+## Deliverables
+
+One zip file [`mustermann_max_A-01.zip`] containing:
+
+- Rhino File (`.3dm`):
+  - File Name: `mustermann_max_A-01.3dm`
+- Grasshopper File (`.ghx`):
+  - File Name: `mustermann_max_A-01.ghx`
+- Screenshots (`.png`):
+  - File Name: `mustermann_max_A-01_xx.png`
+  - Dimensions: 3200x2400 px
+  - View: Top - Rendered
+  - Background: white
+
+## Submission
+
+Upload the assignment via Moodle.
