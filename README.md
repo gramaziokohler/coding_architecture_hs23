@@ -20,3 +20,7 @@ See [here](getting-started/README.md) for details about software requirements an
 
 The central platform for all course content is [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=20309).
 
+## Lectures
+
+* [Week 01](examples/week-01/README.md) | [Ungraded assignment](assignments/ungraded-assignment)
+* [Week 02](examples/week-02/README.md) | [Assignment 01](assignments/A01-area-checker/README.md)
