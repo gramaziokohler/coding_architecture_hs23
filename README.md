@@ -24,3 +24,10 @@ The central platform for all course content is [Moodle](https://moodle-app2.let.
 
 * [Week 01](examples/week-01/README.md) | [Ungraded assignment](assignments/ungraded-assignment)
 * [Week 02](examples/week-02/README.md) | [Assignment 01](assignments/A01-area-checker/README.md)
+
+## Roadmap
+
+See [here](roadmap/README.md) for the **Roadmap: becoming a computational designer**,
+that provides guidance during the learning process and helps you understand how much
+you've progressed and what are the skills and concepts that you should master in order
+to move forward.
