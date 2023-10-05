@@ -24,6 +24,7 @@ The central platform for all course content is [Moodle](https://moodle-app2.let.
 
 * [Week 01](examples/week-01/README.md) | [Ungraded assignment](assignments/ungraded-assignment)
 * [Week 02](examples/week-02/README.md) | [Assignment 01](assignments/A01-area-checker/README.md)
+* [Week 03](examples/week-03/README.md) | No assignment
 
 ## Roadmap
 
