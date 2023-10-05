@@ -1,7 +1,7 @@
 # Coding Architecture I: Week 03
 
-The goal of this week is to understand **iteration and conditional** concepts,
-basic `geometry objects`` and apply them to **create a filtered point grid**.
+The goal of this week is to understand **iteration and conditional** concepts, `list` and nested iterations, 
+basic `geometry objects` and apply them to **create a filtered point grid**.
 
 The following files are useful to follow the lecture content:
 
