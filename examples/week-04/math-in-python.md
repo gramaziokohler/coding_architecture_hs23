@@ -11,8 +11,8 @@
 | `a * b`       | `a` times `b` (`12`)
 | `a / b`       | `a` divided by `b` (`0.75`)
 | `a // b`      | Integer part of `a` divided by `b` (`0`)
-| `a % b`       | Rest of `a` divided by `b` (3)
-| `a ** b`      | `a` to the power of `b` (81)
+| `a % b`       | Rest of `a` divided by `b` (`3`)
+| `a ** b`      | `a` to the power of `b` (`81`)
 
 ## Logic Tests
 
@@ -30,7 +30,7 @@
 
 | Code                  | Description               |
 | --------------------- | ------------------------- |
-| `import math`         | Imports module math
+| `import math`         | Imports module `math`
 | `math.ceil(x)`        | Rounds `x` up
 | `math.floor(x)`       | Rounds `x` down
 | `round(x)`            | Rounds `x` with 0 decimal places
