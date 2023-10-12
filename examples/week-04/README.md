@@ -5,6 +5,7 @@ The goal of this week is to .
 The following files are useful to follow the lecture content:
 
 - [Classes & Objects](01-brick-objects.gh)
+- [Math in Python](math-in-python.md)
 
 ## Assignment 02
 
