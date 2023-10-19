@@ -1,6 +1,6 @@
 # Coding Architecture I: Week 04
 
-The goal of this week is to .
+The goal of this week is to understand the basic principles of object-oriented programming and apply them to the filtered 3D grid.
 
 The following files are useful to follow the lecture content:
 
