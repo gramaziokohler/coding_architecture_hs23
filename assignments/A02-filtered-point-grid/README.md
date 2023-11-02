@@ -98,15 +98,14 @@ The logical **OR GATE** and **AND GATE** are concepts of Grasshopper, and they s
 
 ## Deliverables
 
-One zip file [`mustermann_max_A-01.zip`] containing:
+One zip file [`mustermann_max_A-02.zip`] containing:
 
 - Grasshopper File (`.ghx`):
-  - File Name: `mustermann_max_A-01.ghx`
+  - File Name: `mustermann_max_A-02.ghx`
 - Screenshots (`.png`):
-  - File Name: `mustermann_max_A-01_xx.png`
+  - File Name: `mustermann_max_A-02_xx.png`
   - Dimensions: 3200x2400 px
-  - View: Top - Rendered
-  - Background: white
+  - View: Parallel, Shaded
 
 ## Submission
 
