@@ -25,6 +25,10 @@ The central platform for all course content is [Moodle](https://moodle-app2.let.
 * [Week 01](examples/week-01/README.md) | [Ungraded assignment](assignments/ungraded-assignment)
 * [Week 02](examples/week-02/README.md) | [Assignment 01](assignments/A01-area-checker/README.md)
 * [Week 03](examples/week-03/README.md) | No assignment
+* [Week 04](examples/week-04/README.md) | [Assignment 02](assignments/A02-filtered-point-grid/README.md)
+* [Week 05](examples/week-05/README.md) | No assignment
+* Week 06:  Seminar week
+* [Week 07](examples/week-07/README.md) | [Assignment 03](assignments/A03-building-grid/README.md)
 
 ## Roadmap
 
