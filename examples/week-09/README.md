@@ -6,3 +6,4 @@ The following files are useful to follow the lecture content:
 
 - [Attractors: tiny exercise](attractors.gh)
 - [Attractors: tiny exercise solution](attractors_solution.gh)
+- [Building grid: tutorial 03](03-building-grid-design-explorations.gh)
