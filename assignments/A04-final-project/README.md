@@ -20,47 +20,52 @@ Consider factors like plot size, shape, and local context when making your choic
 
 ![plots](plots/altstetten.png)
 
- * [Link to Map](https://maps.app.goo.gl/dQk7bScDTtiNCmL29)
  * Area: approx. 6'100 m2
  * Close to the train station, high-rise building with a mixed-use potential.
  * [Site project reference](https://www.tagesanzeiger.ch/ubs-will-in-altstetten-gruenes-108-meter-hochhaus-bauen-936800059229)
+ * [Link to Map](https://maps.app.goo.gl/dQk7bScDTtiNCmL29)
+ * [Download plot file](https://github.com/gramaziokohler/coding_architecture_hs23/raw/main/assignments/A04-final-project/plots/altstetten.zip)
 
 ### **Hardturm**
 
 ![plots](plots/hardturm.png)
 
- * [Link to Map](https://maps.app.goo.gl/hJKiF5C4hsGWo2ug6)
  * Area: approx. 39'300 m2
  * Large area! Think about the balance between built and open spaces. Multiple buildings: low-rise with courtyards, high-rise buildings etc. or alternative ideas to the stadium are welcome.
  * [Site project reference](https://projekt-ensemble.ch/einblicke-ins-projekt/stadtentwicklung-ist-ein-kollektives-experiment-im-gesellschaftlichen-labor/)
+ * [Link to Map](https://maps.app.goo.gl/hJKiF5C4hsGWo2ug6)
+ * [Download plot file](https://github.com/gramaziokohler/coding_architecture_hs23/raw/main/assignments/A04-final-project/plots/hardturm.zip)
 
 
 ### **Letzi**
 
 ![plots](plots/letzi.png)
 
- * [Link to Map](https://www.google.com/maps/search/Letzi/@47.3853014,8.4978238,357m/data=!3m1!1e3?entry=ttu)
  * Area: approx. 7'800 m2
  * An area with upcoming residential towers; consider increasing density.
  * [Site project reference](https://galli-rudolf.ch/projects/Hochhaus-Baslerstrasse)
+ * [Link to Map](https://www.google.com/maps/search/Letzi/@47.3853014,8.4978238,357m/data=!3m1!1e3?entry=ttu)
+ * [Download plot file](https://github.com/gramaziokohler/coding_architecture_hs23/raw/main/assignments/A04-final-project/plots/letzi.zip)
 
 ### **Heinrich-Areal**
 
 ![plots](plots/heinrichareal.png)
 
- * [Link to Map](https://www.google.com/maps/search/Heinrichareal/@47.3881218,8.5250139,211m/data=!3m1!1e3?entry=ttu)
  * Area: approx. 4'000 m2
  *  A small plot with unique challenges. Blockrand typology might be interesting.
  * [Site project reference](https://competitions.espazium.ch/de/wettbewerbe/decisi/heinrich-areal)
-
+ * [Link to Map](https://www.google.com/maps/search/Heinrichareal/@47.3881218,8.5250139,211m/data=!3m1!1e3?entry=ttu)
+ * [Download plot file](https://github.com/gramaziokohler/coding_architecture_hs23/raw/main/assignments/A04-final-project/plots/heinrichareal.zip)
+ 
 ### **Escher Wyss**
 
 ![plots](plots/escher_wyss.png)
 
- * [Link to Map](https://www.google.com/maps/@47.3916348,8.5209248,369m/data=!3m1!1e3?entry=ttu)
  * Area: approx. 6'700 m2
  * An evolving district with a growing demand for affordable residential space.
  * [Site project reference](https://www.stadt-zuerich.ch/hbd/de/index/hochbau/bauten/bauten-geplant/tramdepot-und-wohnsiedlung-depot-hard.html)
+ * [Link to Map](https://www.google.com/maps/@47.3916348,8.5209248,369m/data=!3m1!1e3?entry=ttu)
+ * [Download plot file](https://github.com/gramaziokohler/coding_architecture_hs23/raw/main/assignments/A04-final-project/plots/escher_wyss.zip)
 
 ---
 
