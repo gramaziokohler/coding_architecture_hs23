@@ -132,9 +132,9 @@ One zip file [`mustermann_max_A-04.zip`] containing:
   - File Name: `mustermann_max_A-04.3dm`
   - Bake building into Rhino: `yes`
 - Short project presentation / poster (`pdf`):
-  - File Name: mustermann_max_Final_Project.pdf
+  - File Name: `mustermann_max_Final_Project.pdf`
 - Project images (minimum 1) (`png`):
- - File Name: mustermann_max_Final_Project_01.png
+ - File Name: `mustermann_max_Final_Project_01.png`
  - Dimensions: 3000x2400px
  - View: Perspective - rendered
  - Background: white without grid axes and grid
