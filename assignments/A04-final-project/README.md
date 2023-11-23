@@ -75,6 +75,7 @@ Prepare a single-page poster showcasing the project and the outputs of your code
 Guidelines:
 
 - Brief description of your design. Can highlight concept, challenges faced, and discoveries made during the project.
+- Consider including small snippets of code that are interesting. Code should be formatted in monospaced font.
 - Main image of the project: rendered on white background without grid.
 - Optionally 2 or 3 additional images of the project
 - Use Landscape orientation
