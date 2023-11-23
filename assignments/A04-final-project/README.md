@@ -93,7 +93,7 @@ Use different colors to distinguish between different architectural elements or 
 
 ## Extra tasks
 
-The following tasks are not mandatory, but allow you to exercise more the skils you have acquired. Each tasks grant between 0.25 and 1 grade points. The maximum grade for the final project is 6 points. If all required and extra tasks are completed successfully, the maxium grade of 6 will be awareded and the project will be pre-selected for presentation rounds.
+The following tasks are not mandatory, but allow you to exercise more the skils you have acquired. Each task grants between 0.25 and 1 grade points. The maximum grade for the final project is 6 points. If all required and extra tasks are completed successfully, the maxium grade of 6 will be awareded and the project will be pre-selected for final presentation.
 
 ### 1. Placement of building in plot (0.25pt)
 
