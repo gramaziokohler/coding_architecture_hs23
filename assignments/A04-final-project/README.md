@@ -7,7 +7,8 @@
 Use Python programming to create a building structure that is sculpted by a filter class,
 incorporating architectural components like slabs, columns, and facade walls.
 
-The building is to be placed in a real 
+The building is to be placed in a real location in the city of Zurich.
+
 Choose one of the following five plot locations in Zürich for your building design project:
 **Altstetten**, **Hardturm**, **Letzi**, **Heinrich-Areal**, **Escher Wyss**.
 
