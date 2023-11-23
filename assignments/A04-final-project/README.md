@@ -30,7 +30,7 @@ Consider factors like plot size, shape, and local context when making your choic
 
  * [Link to Map](https://maps.app.goo.gl/hJKiF5C4hsGWo2ug6)
  * Area: approx. 39'300 m2
- * Large area! Think about the balance between built and open spaces. Multiple buildings: low-rise with courtyards, high-rise buildings etc. or or alternative ideas to the stadium are welcome.
+ * Large area! Think about the balance between built and open spaces. Multiple buildings: low-rise with courtyards, high-rise buildings etc. or alternative ideas to the stadium are welcome.
  * [Site project reference](https://projekt-ensemble.ch/einblicke-ins-projekt/stadtentwicklung-ist-ein-kollektives-experiment-im-gesellschaftlichen-labor/)
 
 
@@ -80,18 +80,18 @@ Guidelines:
 
 See [sample poster for reference](A04-sample-poster.pdf)
 
-### 2. Sculpt your building using a Filter
+### 2. Sculpt your building using a filter
 
-Use at least one Filter class to shape your building.
+Use at least one `Filter` class to shape your building.
 
 ### 3. Color elements
 
-Use different colors to differentiate between different architectural elements or to represent specific materials.
+Use different colors to distinguish between different architectural elements or to represent specific materials.
 
 
 ## Extra tasks
 
-The following tasks are not mandatory, but allow you to exercise more the skils you have acquired. Each tasks grants between 0.25 and 1 grade points. The maximum grade for the final project is 6 points. If all required and extra tasks are completed successfully, the maxium grade of 6 will be awareded and the project will be pre-selected for presentation rounds.
+The following tasks are not mandatory, but allow you to exercise more the skils you have acquired. Each tasks grant between 0.25 and 1 grade points. The maximum grade for the final project is 6 points. If all required and extra tasks are completed successfully, the maxium grade of 6 will be awareded and the project will be pre-selected for presentation rounds.
 
 ### 1. Placement of building in plot (0.25pt)
 
