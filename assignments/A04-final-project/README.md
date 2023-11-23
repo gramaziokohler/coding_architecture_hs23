@@ -126,7 +126,7 @@ Add one other metric that you consider useful or interesting that can be extract
 
 ## Deliverables
 
-One zip file [`mustermann_max_A-04.zip`] containing:
+One zip file (`mustermann_max_A-04.zip`) containing:
 
 - Grasshopper File (`.ghx`):
   - File Name: `mustermann_max_A-04.ghx`
