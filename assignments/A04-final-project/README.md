@@ -97,7 +97,7 @@ The following tasks are not mandatory, but allow you to exercise more the skils 
 
 ### 1. Placement of building in plot (0.25pt)
 
-Apply a transformation so that the building is located in the correct plane of the plot, instead of `(0, 0, 0)`.
+Apply a transformation to move and orient the building in the correct plane of the plot, instead of `(0, 0, 0)`.
 
 ### 2. Variation in heights and distances (0.25pt)
 
@@ -109,7 +109,7 @@ Adjust individual geometry elements such as facade walls to be dependent on an a
 
 ### 4. Internal walls (0.5pt)
 
-Create inner walls elements in addition to the facade wall elements that were created in the facade tutorial session. You can use the `Wall` class that was created for facades or create a new one specific for inner walls.
+Create internal walls elements in addition to the facade wall elements that were created in the facade tutorial session. You can use the `Wall` class that was created for facades or create a new one specific for internal walls.
 
 ### 5. Customized Elements (1pt)
 
