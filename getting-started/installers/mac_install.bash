@@ -20,7 +20,7 @@ else
 fi
 
 echo "Creating virtual environment…"
-conda create -c conda-forge -n $CONDA_ENV_NAME compas python=3.10 -y &> /dev/null
+conda create -c conda-forge -n $CONDA_ENV_NAME compas=1 python=3.10 -y &> /dev/null
 echo "Creating virtual environment…Done"
 
 echo "Activating virtual environment…"

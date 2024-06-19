@@ -62,7 +62,7 @@ IF %ERRORLEVEL%==0 (
 ECHO.
 
 <nul set /p"=[ ] Creating virtual environment..."
-CALL "%CONDA_COMMAND%" create -c conda-forge -n %CONDA_ENV_NAME% compas python=3.10 -y >nul 2>&1
+CALL "%CONDA_COMMAND%" create -c conda-forge -n %CONDA_ENV_NAME% compas=1 python=3.10 -y >nul 2>&1
 <nul set /p"=!BS!!CR![√] Created virtual environment '%CONDA_ENV_NAME%' successfully"
 ECHO.
 
