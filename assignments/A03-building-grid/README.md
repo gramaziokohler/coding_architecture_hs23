@@ -18,13 +18,13 @@ We will create one slab per each face of our grid's volmesh if the face is
 aligned to the XY plane (ie. flat).
 
 We will create a Slab class that will contain the attributes and methods of each slab.
-The Slab class needs two attributes: shape (a box), and function (a string).
-Function will only be used if you tackle challenge 01. Otherwise you can ignore it.
+The Slab class needs two attributes: shape (a box), and "type_of_slab/usage" (a string).
+"type_of_slab/usage" will only be used if you tackle challenge 01, otherwise you can ignore it.
 
 #### Details
 
-The algorithm that we need to implement, as well as hints to functions you might need,
-is in code comments, as a step-by-step guide.
+The algorithm that we need to implement, as well as hints to python functions you might need,
+are in code comments, as a step-by-step guide.
 
 ![main task](images/main-task.png)
 ![screenshot](images/screenshot-01.a.png)
@@ -34,14 +34,14 @@ is in code comments, as a step-by-step guide.
 
 ## Challenge 01
 
-Goal: Assign the function of each slab
+Goal: Assign the type of slab of each slab
 
-Each slab can be assigned one of three different functions: "roof", "floor_slab" or "bottom_slab". 
+Each slab can be assigned one of three different types: "roof", "floor_slab" or "bottom_slab". 
 
 #### Details
 
-The algorithm that we need to implement, as well as hints to functions you might need,
-is in code comments, as a step-by-step guide.
+The algorithm that we need to implement, as well as hints to python functions you might need,
+are in code comments, as a step-by-step guide.
 
 ![challenge 01](images/challenge-01.png)
 ![screenshot](images/screenshot-02.a.png)
@@ -60,8 +60,8 @@ A new method to calculate the volume of each slab needs to be added to the Slab 
 
 #### Details
 
-The algorithm that we need to implement, as well as hints to functions you might need,
-is in code comments, as a step-by-step guide.
+The algorithm that we need to implement, as well as hints to python functions you might need,
+are in code comments, as a step-by-step guide.
 
 ![challenge 02](images/challenge-02.png)
 
